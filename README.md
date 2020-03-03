@@ -13,6 +13,7 @@ Live2D制作の前準備である、キャラクター画像の"顔パーツを�
   
 ## デモリールと使い方
 #### デモリール
+grabcut_manual.pyを実行し、髪飾り、ツインテール右、ツインテール左の前景領域抽出を行っている様子
 ![grabucut_manual](https://user-images.githubusercontent.com/61644695/75776911-460eab00-5d98-11ea-8d33-e33a562f8382.gif)
 
 ####  出力結果：パーツごとにクロップして保存されたファイル
